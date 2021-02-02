@@ -25,7 +25,7 @@ git config user.mail "kkalkis21@gmail.com"
 
 # Dillinger
 Dillinger is cloud-enabled, mobile-ready,
-offline-stirage, AngularJS powered HTMLS Markdown
+offline-stirage, AngularJS powered HTML5 Markdown
 editor
 
   - Type some Markdown on the left
